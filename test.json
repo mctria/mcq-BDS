@@ -1,4 +1,4 @@
-{ "0" :
+{ "0" : {
 {"question":"Which of the following is derived from fibroblast cells ?","opa":"TGF-13","opb":"MMP2","opc":"Collagen","opd":"Angiopoietin","subject_name":"Pathology","topic_name":null,"id":"84f328d3-fca4-422d-8fb2-19d55eb31503","choice_type":"single"},
 {"question":"In Alleged history of gun shot injury.there is burning, blackening, tattooing around the wound Di collar, the injury is","opa":"Close shot entry wound","opb":"Close shot exit wound","opc":"Distant shot entry wound","opd":"distant shot exit wound","subject_name":"Forensic Medicine","topic_name":null,"id":"bb85e248-b2e9-48e8-a887-67c1aff15b6d","choice_type":"multi"},
 {"question":"Which macrolide is active against Mycobaterium leprae?","opa":"Azithromycin","opb":"Roxithromycin","opc":"Clarithromycin","opd":"Framycetin","subject_name":"Pharmacology","topic_name":null,"id":"f6ce5597-c646-4a2b-8767-764f185be603","choice_type":"single"},
@@ -6149,4 +6149,4 @@
 {"question":"All found in LVF except","opa":"Lung oligemia","opb":"Kerley b lines","opc":"Rales","opd":"Pedal edema","subject_name":"Medicine","topic_name":null,"id":"390dd6bd-58be-45b7-a372-838b9f489fa8","choice_type":"multi"},
 {"question":"Which of the following cannot be treated by laparoscopy-","opa":"Ectopic pregnancy","opb":"Sterilization","opc":"Non descent of uterus","opd":"Genital prolapsed","subject_name":"Gynaecology & Obstetrics","topic_name":null,"id":"9e448d52-f374-4713-b6a4-704400b58a9e","choice_type":"single"},
 {"question":"Which of the following is glucocoicoid synthesis inhibitor?","opa":"Mifepristone","opb":"Flutamide","opc":"Finasteride","opd":"Metyrapone","subject_name":"Pharmacology","topic_name":null,"id":"1922efc6-f618-45fe-9490-d718870cba6f","choice_type":"single"},
-}
+}}
